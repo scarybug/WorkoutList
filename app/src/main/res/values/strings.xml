@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Workout List</string>
+
+    <string name="duration_label">Duration</string>
+    <string name="equipment_label">Equipment</string>
+    <string name="difficulty_label">Difficulty</string>
+    <string name="duration_units">%d minutes</string>
+
+    <string name="workout_default">Workout</string>
+    <string name="duration_default">0 minutes</string>
+    <string name="equipment_default">None</string>
+    <string name="difficulty_default">N/A</string>
+
+    <string name="save_changes_label">Save Changes</string>
+    <string name="restore_defaults_label">Restore Defaults</string>
+
+</resources>
